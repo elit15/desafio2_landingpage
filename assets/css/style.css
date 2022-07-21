@@ -3,7 +3,7 @@
 }
 
 #principal {
-    background-image: url(../img/fondo4.jpg);
+    background-image: url(./assets/img/fondo4.jpg);
     background-position: center;
     background-size: cover;
     height: 180px;
